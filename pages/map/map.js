@@ -27,7 +27,7 @@ Page({
         //设置map高度，根据当前设备宽高满屏显示
         _this.setData({
           view: {
-            Height: res.windowHeight
+            Height: res.windowHeight-30
           }
         })
       }
