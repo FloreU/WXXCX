@@ -21,7 +21,6 @@ Page({
     var _this = this;
     var DXHL=[];
     var fileData = require('../../utils/data.js');
-    DXHL=fileData.DXH_L();
     wx.getSystemInfo({
       success: function (res) {
         //设置map高度，根据当前设备宽高满屏显示
@@ -38,10 +37,10 @@ Page({
         _this.setData({
           latitude: res.latitude,
           longitude: res.longitude,
-          markers: fileData.DXH_M(),
+          markers: fileData.WLXB_M(),
           polyline: [
             {
-              points: DXHL,
+              points: fileData.WLXB_L(),
               color: "#FF0000DD",
               width: 2,
               dottedLine: true
