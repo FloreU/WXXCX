@@ -37,7 +37,7 @@ Page({
         _this.setData({
           latitude: res.latitude,
           longitude: res.longitude,
-          markers: fileData.WLXB_M(),
+          markers: fileData.SCHOOLS(),
           polyline: [
             {
               points: fileData.WLXB_L(),
