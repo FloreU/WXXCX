@@ -43,18 +43,33 @@ function SCHOOLS_GATE() {
 }
 
 function data2polyline(cur_data, cur_color, cur_width, cur_dottedLine) {
-  
   var cur_points=[];
   for (var i = 0; i < cur_data.length(); i++) {
     var v_point = {};
-    v_point.longitude = parseFloat(cur_data[1]);
-    v_point.latitude = parseFloat(cur_data[0]);
+    v_point.longitude = cur_data[1];
+    v_point.latitude = cur_data[0];
     cur_points.push(v_point);
   }
   return {
     points: cur_points,
     color: cur_color,
     width: cur_width,
-    dottedLine: cur_dottedLine
+    dottedLine: cur_dottedLine,
   }
 }
+
+function data2marker(cur_data, cur_iconPath, cur_width, cur_height) {
+  var cur_markers=[];
+  for (var i = 0; i < cur_data.length(); i++) {
+    var cur_marker = {};
+    cur_marker.longitude = cur_data[1];
+    cur_marker.latitude = cur_data[0];
+    cur_marker.iconPath = cur_iconPath;
+    cur_marker.width = cur_width;
+    cur_marker.height = cur_height;
+    cur_marker.title = cur_data[2];
+    cur_markers.push(cur_marker);
+  }
+  return cur_markers;
+}
+
