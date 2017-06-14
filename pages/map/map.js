@@ -31,6 +31,9 @@ Page({
         })
       }
     })
+    _this.setData({
+      markers: fileData.DXH_M(),
+    })
     wx.getLocation({
       type: 'wgs84', // 默认为 wgs84 返回 gps 坐标，gcj02 返回可用于 wx.openLocation 的坐标
       success: function (res) {
@@ -98,5 +101,12 @@ Page({
    */
   onShareAppMessage: function () {
   
+  },
+
+  /**
+   * 点击标记点运行
+   */
+  markertap(e){
+
   }
 })
