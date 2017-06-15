@@ -31,24 +31,14 @@ Page({
         })
       }
     })
-    _this.setData({
-      markers: fileData.DXH_M(),
-    })
     wx.getLocation({
       type: 'wgs84', // 默认为 wgs84 返回 gps 坐标，gcj02 返回可用于 wx.openLocation 的坐标
       success: function (res) {
         _this.setData({
           latitude: res.latitude,
           longitude: res.longitude,
-          markers: fileData.SCHOOLS(),
-          polyline: [
-            {
-              points: fileData.WLXB_L(),
-              color: "#FF0000DD",
-              width: 2,
-              dottedLine: true
-            }
-          ]
+          markers: fileData.GXB_M(),
+          polyline: fileData.GXB_L()
         })
       }
     })
