@@ -26,15 +26,19 @@
 
 .swiper-tab{  
   width: 100%;
-  border-bottom: 2rpx solid #777777;
+  height: 80rpx;
+  /*border-bottom: 2rpx solid #777777;*/
   text-align: center;
   line-height: 80rpx;
-  white-space: nowrap;}
+  white-space: nowrap;
+  background-color: #e2f3ff;
+  
+}
 .swiper-tab-list{
-  font-size: 30rpx;
+  /*font-size: 30rpx;*/
   display: inline-block;
   width: 150rpx;
-  color: #777777;  
+  font-family: Helvetica, Arial, sans-serif; 
 }  
 .on{
   color: #da7c0c;
@@ -43,4 +47,4 @@
 .swiper-box{ display: block; height: 100%; width: 100%; overflow: hidden; }  
 .swiper-box view{  
     text-align: center;  
-}  
+}

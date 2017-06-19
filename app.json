@@ -1,13 +1,14 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/logs/logs",
+    
     "pages/map/map",
-    "pages/detail/detail"
+    "pages/detail/detail",
+    "pages/index/index",
+    "pages/logs/logs"
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#e2f3ff",
     "navigationBarTitleText": "武大就业",
     "navigationBarTextStyle": "black"
   }

@@ -1,2 +1,24 @@
 <!--detail.wxml-->
-<text>detail.wxml</text>
+<view class="main" style="width: 100%; height: {{600}}px;">
+<view class="picTitle ct">
+<image src="{{url}}" mode="aspectFill"></image>
+</view>
+<view class="navi ct">
+<view class="textContainer">
+  <text class="title">{{name}}</text>
+</view>
+<view class="naviContainer" bindtap="bindOpenLocation">
+<text class="content">到这里去</text>
+<image src="/icon/daohang.png" style="float:right;"></image>
+</view>
+</view>
+<view class="describe ct">
+<view class="textContainer">
+  <text class="title">概况介绍</text>
+</view>
+<view class="textContainer2">
+<text class="content">{{describe}}</text>
+</view>
+
+</view>
+</view>
