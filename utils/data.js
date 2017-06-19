@@ -504,6 +504,7 @@ function ALLDATA(){
     TIYUGUAN: TIYUGUAN_M,
     DITIE:DITIE_M,
   };
+  return D;
 }
 
 function DXH_L() {
