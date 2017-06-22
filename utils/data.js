@@ -456,8 +456,6 @@ var SCHOOLSGATE_M = [
     [30.53091477, 114.3630034, "中东区南门", "开放时间：6-24:00\n校外车辆不可通行。", "http://wx2.sinaimg.cn/mw1024/86ede6e5ly1fgn5iq0z32j20m80go774.jpg"],
     [30.53027249, 114.3652028, "南一门", "开放时间：24小时\n校外车辆不可通行。", "http://wx3.sinaimg.cn/mw1024/86ede6e5ly1fgn5iqp3z0j20m80gowjg.jpg"],
     [30.52500475, 114.361158, "南门", "开放时间：24小时\n校外车辆不可通行。", "http://wx3.sinaimg.cn/mw1024/86ede6e5ly1fgn5ir6p2yj20m80gogos.jpg"],
-  ],
-  [
     [30.52973187, 114.3678367, "南三门", "开放时间：6-23:30\n校外车辆可以驶入，但禁止使出。", "http://wx1.sinaimg.cn/mw1024/86ede6e5ly1fgn5irfnycj20m80gojt8.jpg"],
   ]
 ];
@@ -474,9 +472,7 @@ var BAOGAOTING_M = [
   [30.5363439, 114.3593287, "化学与分子科学学院报告厅（创隆厅）", "　　武汉大学化学与分子科学学院是我国建立最早的化学院、系之一。她的历史可以追溯到1893年（光绪十九年）湖广总督张之洞在汉阳炼铁厂建立的化学学堂。1896年化学学堂并入湖北自强学堂的格致门，后改为化学门。1913年国立武昌高等师范成立，设数学理化部。1928年国立武汉大学组建，正式定名为武汉大学理工学院化学系，王星拱教授担任化学系首任系主任。1953年全国进行院校调整，湖南大学化学系和南昌大学化学系并入武汉大学化学系。", "http://wx2.sinaimg.cn/mw1024/86ede6e5gy1fgn5azopp9j20m80gojyu.jpg"],
   [30.53432014, 114.3622738, "物理科学与技术学院报告厅", "　　武汉大学物理科学与技术学院是在1928年成立的原武汉大学物理系的基础上逐渐发展、演变而来。其历史可追溯到1893年自强学堂的格致门。我国老一辈著名物理学家查谦、潘祖武、汪仁寿、桂质廷、吴南熏、马师亮、李国鼎、周如松等先后在这里研究执教多年。经过近八十年、几代人的努力，现已发展成为涵盖物理学、材料科学与工程、电子科学与技术、生物医学技术四个学科门类，多个有突出特色的学科研究方向，在国际国内有一定影响，我国最有名望的物理院系之一。", "http://wx1.sinaimg.cn/mw1024/86ede6e5ly1fgn5l5ltddj20m80goq6f.jpg"],
   [30.53905605, 114.3730026, "经济与管理学院学术报告厅", "　　武汉大学经济与管理学院是武汉大学的二级学院，据2017年3月学校官网显示，武汉大学经济与管理学院是武汉大学办学规模最大的学院。学院前身可追溯到1893年清末湖广总督张之洞创办自强学堂时设立的商务门，其实体根基源自1916年设立的国立武昌商业专门学校。1928年国立武汉大学设经济学系。1981年经济学系与经济管理系分设，1999年经济学院、管理学院和旅游学院合并为商学院。2001年原武汉大学商学院、原武汉水利电力大学经济管理学院与原武汉测绘科技大学经济管理、市场营销教研室合并组建新武汉大学商学院，2005年更名为经济与管理学院。", "http://wx3.sinaimg.cn/mw1024/86ede6e5ly1fgn5k5e5soj20m80gowhi.jpg"],
-  [30.52530974, 114.3618339, "莱卡厅", "　　莱卡厅位于武汉大学信息学部教学实验大楼一楼南侧，是学生活动以及就业宣讲的常用报告厅之一。", "http://wx1.sinaimg.cn/mw1024/86ede6e5gy1fgn808crwxj20m80go0w0.jpg"],
-  [30.52836875, 114.3592805, "就业中心第一、二、三报告厅", "　　武汉大学学生就业指导与服务中心(以下简称“中心”)成立于2013年9月。中心是在学校就业工作领导小组的指导下，贯彻落实国家大学生就业工作方针政策，行使在校学生就业服务、指导、教育和管理职能的部门。\n　　中心设立了就业信息与市场开拓办公室、就业指导与咨询办公室、就业管理办公室和综合办公室四个部门。\n　　学生就业指导与服务中心完成学生毕业和就业的相关工作，内容包括：根据国家各项方针、政策以及学校有关要求，制定毕业生就业工作意见及实施细则，充分宣传各项相关政策;主动向社会各界发布毕业生信息，深入挖掘社会需求，收集并以多种形式及时发布各类用人单位需求;组织校园宣传及招聘活动;开展就业咨询及指导;办理就业协议签订事宜，形成毕业生就业方案，完成上级部门各类业务工作;负责毕业生派遣和学生档案管理相关事宜;开展各类调查研究，组织科研课题项目完成等。", "http://wx1.sinaimg.cn/mw1024/86ede6e5gy1fgn5b1qkhqj20m80goae5.jpg"],
-  [30.52832254, 114.3592751, "就业中心卓越厅", "　　武汉大学学生就业指导与服务中心(以下简称“中心”)成立于2013年9月。中心是在学校就业工作领导小组的指导下，贯彻落实国家大学生就业工作方针政策，行使在校学生就业服务、指导、教育和管理职能的部门。\n　　中心设立了就业信息与市场开拓办公室、就业指导与咨询办公室、就业管理办公室和综合办公室四个部门。\n　　学生就业指导与服务中心完成学生毕业和就业的相关工作，内容包括：根据国家各项方针、政策以及学校有关要求，制定毕业生就业工作意见及实施细则，充分宣传各项相关政策;主动向社会各界发布毕业生信息，深入挖掘社会需求，收集并以多种形式及时发布各类用人单位需求;组织校园宣传及招聘活动;开展就业咨询及指导;办理就业协议签订事宜，形成毕业生就业方案，完成上级部门各类业务工作;负责毕业生派遣和学生档案管理相关事宜;开展各类调查研究，组织科研课题项目完成等。", "http://wx2.sinaimg.cn/mw1024/86ede6e5gy1fgn5azz3t2j20m80gowiu.jpg"],
+  [30.52836875, 114.3592805, "就业中心第一、二、三报告厅及卓越厅", "　　武汉大学学生就业指导与服务中心(以下简称“中心”)成立于2013年9月。中心是在学校就业工作领导小组的指导下，贯彻落实国家大学生就业工作方针政策，行使在校学生就业服务、指导、教育和管理职能的部门。\n　　中心设立了就业信息与市场开拓办公室、就业指导与咨询办公室、就业管理办公室和综合办公室四个部门。\n　　学生就业指导与服务中心完成学生毕业和就业的相关工作，内容包括：根据国家各项方针、政策以及学校有关要求，制定毕业生就业工作意见及实施细则，充分宣传各项相关政策;主动向社会各界发布毕业生信息，深入挖掘社会需求，收集并以多种形式及时发布各类用人单位需求;组织校园宣传及招聘活动;开展就业咨询及指导;办理就业协议签订事宜，形成毕业生就业方案，完成上级部门各类业务工作;负责毕业生派遣和学生档案管理相关事宜;开展各类调查研究，组织科研课题项目完成等。", "http://wx1.sinaimg.cn/mw1024/86ede6e5gy1fgn5b1qkhqj20m80goae5.jpg"],
   [30.52786046, 114.36001, "武汉大学生就业市场综合厅", "　　武汉大学生就业市场是华中地区唯一的国家级区域性人才市场，经过十多年快速发展，已经成为我国中部最大的人才资源服务机构。每年举办各类现场招聘会近百场，进场招聘单位近万家，进场择业人员达51余万人次；", "http://wx2.sinaimg.cn/mw1024/86ede6e5gy1fgqsku4y98j20m80gowhz.jpg"],
   [30.53911611, 114.367767, "人文科学馆报告厅", "　　1990年11月20日竣工的人文科学馆，由香港著名实业家和爱国人士邵逸夫爵士捐款和原国家教委拨款共建，东南大学建筑设计研究院设计，设计新颖，建造精良，是一座现代化的多功能综合性人文科学大楼。", "http://wx3.sinaimg.cn/mw1024/86ede6e5gy1fgn5b0q2t2j20m80go0vd.jpg"],
 ];
@@ -538,12 +534,33 @@ function SCHOOLS() {
 function SCHOOLS_GATE() {
   var SG_M=[];
   SG_M=SG_M.concat(data2marker(SCHOOLSGATE_M[0], "SCHOOLSGATE_0", '/icon/xiaomentongxing.png', 32, 36));
-  SG_M = SG_M.concat(data2marker(SCHOOLSGATE_M[1], "SCHOOLSGATE_1", '/icon/jinzhishiru.png', 32, 36));
-  SG_M = SG_M.concat(data2marker(SCHOOLSGATE_M[2], "SCHOOLSGATE_2", '/icon/jinzhishichu.png', 32, 36));
+  SG_M = SG_M.concat(data2marker(SCHOOLSGATE_M[1], "SCHOOLSGATE_1", '/icon/jinzhishichu.png', 32, 36));
+  //SG_M = SG_M.concat(data2marker(SCHOOLSGATE_M[2], "SCHOOLSGATE_2", '/icon/jinzhishichu.png', 32, 36));
   return SG_M;
 }
 
 function JIUYE(){
+  // var cur_callout={
+  //   content:"\<button>ahda</button>",
+  //   color:"#000000",
+  //   fontSize:12,
+  //   borderRadius:5,
+  //   bgColor: "#e2f3ff",
+  //   padding:3,
+  //   display:"ALWAYS",
+  //   x: 5,
+  //   y: 5,
+  // };
+  // var cur_label={
+  //   content: "哈哈哈\n所示",
+  //   color: "#000000",
+  //   fontSize: 12,
+  //   x:5,
+  //   y:5,
+  //   bgColor: "#e2f3ff",
+  //   padding: 3,
+  //   display: "ALWAYS",
+  // };
   return data2marker(JIUYE_M, "JIUYE", '/icon/jiuye.png', 32, 36);
 }
 
@@ -576,7 +593,7 @@ function data2polyline(cur_data, cur_color, cur_width, cur_dottedLine) {
   }
 }
 
-function data2marker(cur_data, cur_marker_type, cur_iconPath, cur_width, cur_height) {
+function data2marker(cur_data, cur_marker_type, cur_iconPath, cur_width, cur_height, cur_callout, cur_label) {
   var cur_markers = [];
   for (var i = 0; i < cur_data.length; i++) {
     var c_data = cur_data[i];
@@ -591,6 +608,8 @@ function data2marker(cur_data, cur_marker_type, cur_iconPath, cur_width, cur_hei
     cur_marker.width = cur_width;
     cur_marker.height = cur_height;
     cur_marker.title = c_data[2];
+    cur_marker.callout = cur_callout;
+    cur_marker.label = cur_label;
     cur_markers.push(cur_marker);
   }
   return cur_markers;
